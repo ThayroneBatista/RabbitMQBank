@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7Canrqf2nMA2QIv5/arlg+RII3m4da/xdnJ+LhicUxkp5bmGl+sh37zSzpanhIoISVsvZaK4+j7SJdtHv6oBBQ==",
+  "dgSpecHash": "G0zKAUYgm7MFMzKEtBJ5QVSAY3yj+QI4GKKpY0RvTTXj3X2d9PBfp9LHdDCjSGQDiGsb76L/kZztpKmodk+G8w==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Thayrone\\RabbitMQ\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thayr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Thayr\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Thayr\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Thayr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Thayr\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Thayr\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

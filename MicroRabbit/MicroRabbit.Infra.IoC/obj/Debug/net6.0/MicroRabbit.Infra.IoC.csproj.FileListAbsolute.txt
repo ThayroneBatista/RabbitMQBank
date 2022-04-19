@@ -21,3 +21,9 @@ C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\net6.0
 C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Banking.Application.pdb
 C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Banking.Data.pdb
 C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Banking.Domain.pdb
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Transfer.Application.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Transfer.Data.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Transfer.Domain.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Transfer.Application.pdb
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Transfer.Data.pdb
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Transfer.Domain.pdb

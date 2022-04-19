@@ -13,3 +13,5 @@ C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Application\obj\De
 C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Banking.Domain.dll
 C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Banking.Domain.pdb
 C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\net6.0\MicroRabbit.Banking.Application.csproj.CopyComplete
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Domain.Core.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\net6.0\MicroRabbit.Domain.Core.pdb

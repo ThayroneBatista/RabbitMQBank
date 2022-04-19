@@ -1,0 +1,17 @@
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\net6.0\MicroRabbit.Transfer.Domain.deps.json
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\net6.0\MicroRabbit.Transfer.Domain.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\net6.0\MicroRabbit.Transfer.Domain.pdb
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net6.0\MicroRabbit.Transfer.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net6.0\MicroRabbit.Transfer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net6.0\MicroRabbit.Transfer.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net6.0\MicroRabbit.Transfer.Domain.AssemblyInfo.cs
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net6.0\MicroRabbit.Transfer.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net6.0\MicroRabbit.Transfer.Domain.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net6.0\refint\MicroRabbit.Transfer.Domain.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net6.0\MicroRabbit.Transfer.Domain.pdb
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net6.0\ref\MicroRabbit.Transfer.Domain.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\net6.0\MicroRabbit.Banking.Domain.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\net6.0\MicroRabbit.Domain.Core.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\net6.0\MicroRabbit.Banking.Domain.pdb
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\net6.0\MicroRabbit.Domain.Core.pdb
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\net6.0\MicroRabbit.Transfer.Domain.csproj.CopyComplete

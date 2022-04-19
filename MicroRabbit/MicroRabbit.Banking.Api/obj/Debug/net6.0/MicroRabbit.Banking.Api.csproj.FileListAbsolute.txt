@@ -77,3 +77,9 @@ C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6
 C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
 C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\MicroRabbit.Transfer.Application.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\MicroRabbit.Transfer.Data.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\MicroRabbit.Transfer.Domain.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\MicroRabbit.Transfer.Application.pdb
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\MicroRabbit.Transfer.Data.pdb
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\net6.0\MicroRabbit.Transfer.Domain.pdb

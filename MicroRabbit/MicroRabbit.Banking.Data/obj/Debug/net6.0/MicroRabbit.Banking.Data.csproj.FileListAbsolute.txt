@@ -15,3 +15,5 @@ C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\net
 C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\net6.0\MicroRabbit.Banking.Data.pdb
 C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\net6.0\MicroRabbit.Banking.Data.genruntimeconfig.cache
 C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\net6.0\ref\MicroRabbit.Banking.Data.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\net6.0\MicroRabbit.Domain.Core.dll
+C:\Projetos\Thayrone\RabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\net6.0\MicroRabbit.Domain.Core.pdb

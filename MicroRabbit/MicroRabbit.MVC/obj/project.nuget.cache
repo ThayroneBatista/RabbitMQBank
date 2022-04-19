@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dtWCQlx0mHxgkdYm/d0fKH83DozrEQuGOm+Fi0Encer7cK+1vWU4c9U5K4C+zgOhwxTY52uhWKUDF5DLMekl1w==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Thayrone\\RabbitMQ\\MicroRabbit\\MicroRabbit.MVC\\MicroRabbit.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thayr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

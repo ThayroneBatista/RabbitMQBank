@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cbIWKdqZqRm8OoqpV/OtJSCXJtQvE/kQx/jhpKa9dog95/D2jRTd4QEVVsDnKZG9hGIdhphhW5dJsjf6u/v7wg==",
+  "dgSpecHash": "dojyogO9Qqe8GapOxJz6wxF682+P+oNk6ElVFyeh4H0XcdFJ/QApYvkpMHrFIJ86py23E91UbaNeJVB4xZ2ZDA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Thayrone\\RabbitMQ\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Thayr\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Thayr\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
